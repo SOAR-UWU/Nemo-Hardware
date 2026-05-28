@@ -1,0 +1,3 @@
+[submodule "swimbladder"]
+	path = swimbladder
+	url = git@github.com:SOAR-UWU/swimbladder.git
