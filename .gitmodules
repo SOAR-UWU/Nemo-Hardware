@@ -1,3 +1,6 @@
 [submodule "swimbladder"]
 	path = swimbladder
 	url = git@github.com:SOAR-UWU/swimbladder.git
+[submodule "estopsupport"]
+	path = estopsupport
+	url = ./estopsupport
