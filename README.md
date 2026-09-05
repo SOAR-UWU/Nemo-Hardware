@@ -1,5 +1,5 @@
 # Nemo-Hardware
-This repository holds the hardware design and documentation for Nemo
+This repository holds the hardware design and documentation for Nemo, an autonomous underwater vehicle.
 
 # Overview
 ![Block Diagram](https://github.com/SOAR-UWU/Nemo-Hardware/blob/main/elec-block-v2-Block%20Diagram.png)
@@ -12,7 +12,6 @@ Switches power for the PDB using two 5V switches.
 Designed for KiloVac EV200 - assumes back-emf suppression, variable coil voltage.
 #### Variant 2: Integrated Automotive Relay
 Automotive Relay integrated into circuit.
-## Schematics
 ## Design Sketches
 ## Assembly Guide
 ## BOM
