@@ -2,7 +2,7 @@
 This repository holds the hardware design and documentation for Nemo, an autonomous underwater vehicle.
 
 # Overview
-![Block Diagram](https://github.com/SOAR-UWU/Nemo-Hardware/blob/main/elec-block-v2-Block%20Diagram.png)
+![Block Diagram](elec-block-v2-Block%20Diagram.drawio.png)
 ## PCBs
 ### SwimBladder PDB
 Compresses power distribution to Electronic Speed Controllers.
